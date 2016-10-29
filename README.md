@@ -8,11 +8,7 @@ kindle格式，可以直接用kindle打开，如果你有kindle的话推荐下�
 ## 伊豆の踊子（角川文庫）.txt
 这个是utf-8编码的，如果打开出现乱码请自行转码，方法百度。
 # 下载方法
-## 打包下载
-直接点击右上角绿色的“Clone or download”下面子菜单的“Download ZIP”即可。
-## 单独下载
-点击想要下载的文件后在右上角会出现“Download”按钮，点击即可。
-
+请电脑打开[下载页面](https://ecator.github.io/izunoko/)下载
 > 注意txt文件是会被预览，所以点开后再点击“Raw”按钮，Ctrl+A全选后粘贴复制吧。
 
 # 声明
